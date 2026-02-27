@@ -24,7 +24,8 @@
 		}
 	},
 	"links": {
-    	"community": "https://discord.gg/tzWNkKK4t7"
+    	"community": "https://discord.gg/tzWNkKK4t7",
+		"source": "https://github.com/DotPrism/PrismMod-GD"
   	},
 	"tags": [
         "developer", "utility", "api", "offline"
