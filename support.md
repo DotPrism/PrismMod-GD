@@ -1,1 +1,1 @@
-Edit this file to change your mod's support info, or delete it if you don't need it.
+You can support this mods author by joining thier Discord Server. There will eventually be a patreon and ko-fi in the future for finacial support.
