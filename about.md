@@ -1,3 +1,3 @@
-# Template Mod
+# PrismMod
 
-Edit about.md to change this
+A mod developed by user MagneticPrism. This mod is a random additions mod that my friends or I want.
